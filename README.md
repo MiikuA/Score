@@ -9,6 +9,7 @@
 ## 环境需求
 
 > [!IMPORTANT]
+> Python: 3.12+
 > Pandas:`pip install pandas`
 > openxls: `pip install openpyxl`
 

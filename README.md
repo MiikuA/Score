@@ -4,7 +4,13 @@
 
 - 本项目因方便持久化数据以及快速计算成绩而诞生
 
-- 本项目使用的是`Python`和`Sqlite3`，数据处理部分使用的`Pandas`，格式兼容部分使用的`openxls`
+- 本项目使用的是`Python`和`Sqlite3`，数据处理部分使用的`Pandas`，格式兼容部分使用的`openpyxl`
+
+## 环境需求
+
+> [!IMPORTANT]
+> Pandas:`pip install pandas`
+> openxls: `pip install openpyxl`
 
 ## 文件说明
 
